@@ -5,7 +5,7 @@ A **responsive personal portfolio landing page** for showcasing development skil
 This landing page includes sections such as an introduction, services offered (Web Development, UI/UX Design, App Development), a contact section, and an about me section — perfect for freelance developers or software engineers building a personal brand.
 
 ## 🔍 Preview
-
+https://developer-landing-page-rsv8.onrender.com
 
 ## 📁 Project Structure
 Developer-Landing-Page/ <br>
