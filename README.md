@@ -35,7 +35,7 @@ All you need is a web browser.
 ## 🛠️ Technologies Used
 - **HTML5**
 - **CSS3**
-- 
+
 ## ✍️ Author
 **Harsh Mishra**  
 
